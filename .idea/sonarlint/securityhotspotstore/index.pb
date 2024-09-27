@@ -11,3 +11,5 @@ G
 ms-other-cer.properties,2\4\24db8f463007d903295e6d7b9bd044f8ae46b1f9
 G
 ms-other-pro.properties,d\e\dee1d98fc5cac8eb1d66c8aa5e851fc073363de4
+A
+ms-seguridad.json,5\9\590841a5a12e083dbc091c71b8ae8888e73497ed
